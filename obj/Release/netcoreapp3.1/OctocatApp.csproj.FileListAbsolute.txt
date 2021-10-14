@@ -1,0 +1,10 @@
+/Users/bguereca/GitHub/nuget/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.deps.json
+/Users/bguereca/GitHub/nuget/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.runtimeconfig.json
+/Users/bguereca/GitHub/nuget/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.runtimeconfig.dev.json
+/Users/bguereca/GitHub/nuget/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.dll
+/Users/bguereca/GitHub/nuget/OctocatApp/bin/Release/netcoreapp3.1/OctocatApp.pdb
+/Users/bguereca/GitHub/nuget/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.csprojAssemblyReference.cache
+/Users/bguereca/GitHub/nuget/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.AssemblyInfoInputs.cache
+/Users/bguereca/GitHub/nuget/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.AssemblyInfo.cs
+/Users/bguereca/GitHub/nuget/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.dll
+/Users/bguereca/GitHub/nuget/OctocatApp/obj/Release/netcoreapp3.1/OctocatApp.pdb
